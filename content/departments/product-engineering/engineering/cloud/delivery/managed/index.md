@@ -26,9 +26,10 @@ After [determining a managed instance is what a customer/prospect wants](https:/
 2. Message the team in [#delivery](https://sourcegraph.slack.com/archives/C02E4HE42BX)
 
 ## SLA for managed instances
-Currently, the SLA for creating a new managed instance is 10 business days.  This allows the team to assess the sizing is correct, verify the information in the ticket, and plan the work in the following iterations without interupting work that is currently in progress
 
-Managed instances feature requests have a SLA of 10 business days to provide engineering level of effort.  After a level of effort and scoping is produced, we follow standard guidelines for prioritization and scheduling the work 
+Currently, the SLA for creating a new managed instance is 10 business days. This allows the team to assess the sizing is correct, verify the information in the ticket, and plan the work in the following iterations without interupting work that is currently in progress
+
+Managed instances feature requests have a SLA of 10 business days to provide engineering level of effort. After a level of effort and scoping is produced, we follow standard guidelines for prioritization and scheduling the work
 
 ## Technical details
 
